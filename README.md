@@ -1,3 +1,3 @@
-# ToDo 
+# React ToDo List 
 
-### Todo is a React application that enables you to add tasks on ToDo list
+-- This is a simple web application built with React that allows you to create and manage your daily tasks with ease.
